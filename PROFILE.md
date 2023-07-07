@@ -1,1 +1,1 @@
-Welcome to my GitHub profile! Where I share my programming interests.
+Welcome to my GitHub profile! Where I share my programming interests and skills.
